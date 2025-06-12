@@ -5,5 +5,5 @@ TgCrypto
 ffmpeg-python
 youtube-dl
 wget
-gunicorn bot:app
+
 
